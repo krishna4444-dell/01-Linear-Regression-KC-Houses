@@ -1,6 +1,6 @@
 # House Price Prediction using Linear Regression
 
-## 📌 Project Overview
+##  Project Overview
 
 This project applies **Linear Regression** to predict house prices using the **King County Housing dataset**. The dataset contains house sales data including features like square footage, number of bedrooms/bathrooms, grade, view, etc.
 
